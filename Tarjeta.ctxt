@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=nroTarjeta
+comment0.target=Tarjeta(java.lang.String)
+comment1.params=otra
+comment1.target=boolean\ equals(Tarjeta)
+numComments=2

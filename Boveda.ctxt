@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=cantidadCortes
+comment0.target=Boveda(int)
+comment1.params=capacidad
+comment1.target=void\ setCapacidad(int)
+numComments=2

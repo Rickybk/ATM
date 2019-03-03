@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nroCuenta\ titular\ tarjeta\ moneda\ pin
+comment0.target=CuentaBancaria(java.lang.String,\ Cliente,\ Tarjeta,\ Moneda,\ int)
+comment1.params=tarjeta
+comment1.target=boolean\ verificarTarjeta(Tarjeta)
+comment2.params=
+comment2.target=double\ getSaldo()
+numComments=3

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ATM
+comment0.text=\r\n\ Clase\ que\ identifica\ una\ maquina\ de\ cajero\ automatico\r\n\ \r\n\ @author\ MLBC\r\n\ @version\ 28.02.2019\r\n
+comment1.params=capacidad\ servidor
+comment1.target=ATM(int,\ Servidor)
+comment2.params=tarjeta
+comment2.target=boolean\ ingresarTarjeta(Tarjeta)
+comment3.params=pin
+comment3.target=boolean\ ingresarPIN(int)
+comment4.params=monto
+comment4.target=int\ retirar(int)
+comment5.params=
+comment5.target=java.lang.String\ imprimirComprobante()
+comment6.params=
+comment6.target=java.lang.String\ consultarSaldo()
+numComments=7
